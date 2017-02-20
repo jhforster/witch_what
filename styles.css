@@ -1,0 +1,38 @@
+#slack-signup-wrapper{
+	position:relative;
+	width:100%;
+	height:300px;
+	overflow:hidden
+}
+#slack-signup{
+	position:absolute;
+	top:-175px;
+	left:0;
+	width:100%;
+	height:500px;
+	margin:0;
+	padding:0;
+	border:0
+	}
+@media all and (max-width:380px)
+	{#slack-signup-wrapper{
+		height:250px
+	}
+	#slack-signup{
+		left:-20px;top:-150px;width:120%
+		}
+	}
+
+h1 {
+	font-family: 'Cabin Sketch', cursive;
+	color: #000;
+	font-size: 4rem;
+	text-align: center;
+}
+
+p {
+	font-family: 'Architects Daughter', cursive;
+	color: #000;
+	font-size: 1.5rem;
+	text-align: center;
+}
