@@ -18,9 +18,11 @@
 	{#slack-signup-wrapper{
 		height:250px
 	}
-	#slack-signup{
-		left:-20px;top:-150px;width:120%
-		}
+	/*#slack-signup{
+		left:-20px;
+		top:-150px;
+		width:120%
+		}*/
 	}
 
 h1 {
