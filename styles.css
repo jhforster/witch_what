@@ -36,3 +36,15 @@ p {
 	font-size: 1.5rem;
 	text-align: center;
 }
+
+.footer {
+	font-family: 'Architects Daughter', cursive;
+	color: #000;
+	font-size: 1rem;
+	max-width: 60%;
+	margin: 0 auto;
+}
+
+span {
+	font-size: 1.5rem;
+}
